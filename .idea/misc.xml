@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/fabio/AndroidStudioProjects/LojaRetrofit777/app/src/main/res/layout/activity_lista_produtos.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/fabio/AndroidStudioProjects/LojaRetrofit777/app/src/main/res/layout/card_item.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-v24/no_image.xml" value="0.1765" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.1765" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1765" />
+        <entry key="app/src/main/res/layout/activity_lista_produtos.xml" value="0.5260416666666666" />
+        <entry key="app/src/main/res/layout/card_item.xml" value="0.5260416666666666" />
       </map>
     </option>
   </component>
